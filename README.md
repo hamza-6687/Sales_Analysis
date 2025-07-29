@@ -31,6 +31,8 @@ Segmented data by customer age, sales frequency, and product variety.
 Created grouped insights based on customer and product-level metrics.
 
 
+
+
  **Customer Report**
 🎯 **Purpose:**
 To consolidate key customer metrics and behavioral insights.
