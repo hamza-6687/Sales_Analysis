@@ -34,15 +34,11 @@ Created grouped insights based on customer and product-level metrics.
  **Customer Report**
 🎯 **Purpose:**
 To consolidate key customer metrics and behavioral insights.
-
 🔍 **Highlights:**
-
 Extracts essential customer fields: name, age, transaction details.
 
 **Segments customers into:**
-
 VIP, Regular, and New
-
 Age groups (e.g., <25, 25–40, 40+)
 
 **Aggregates customer-level metrics:**
